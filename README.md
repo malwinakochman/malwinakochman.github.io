@@ -1,1 +1,0 @@
-# malwinakochman.github.io
