@@ -1,0 +1,13 @@
+MiniPets Finder - Additional Resources
+
+This is a sample file that you can download from the Downloads page.
+
+Contents:
+- Sample configuration file
+- User guide snippets
+- Additional resources
+
+Version: 1.0
+Date: January 2026
+
+For more information, visit malvapps.com
